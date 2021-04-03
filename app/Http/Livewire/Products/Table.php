@@ -60,9 +60,7 @@ class Table extends Component
             "returns" => json_encode($this->returns)
         ]);
         session()->flash('message', 'تم الحفظ بنجاح');
-
         $this->reset();
-
     }
 
     public function render()

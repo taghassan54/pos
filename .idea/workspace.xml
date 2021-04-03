@@ -4,8 +4,6 @@
     <list default="true" id="15f1aff7-cb57-4ae0-9639-99d7c6e667db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Products/Table.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Products/Table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Sales.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Sales.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/products/table.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/products/table.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,18 +162,34 @@
       <workItem from="1617387054785" duration="599000" />
       <workItem from="1617401773336" duration="1500000" />
       <workItem from="1617403610212" duration="7637000" />
-      <workItem from="1617411928560" duration="7365000" />
+      <workItem from="1617411928560" duration="8441000" />
     </task>
+    <task id="LOCAL-00001" summary="return json">
+      <created>1617419416744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617419416744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="return json" />
+    <option name="LAST_COMMIT_MESSAGE" value="return json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2673" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1617409954092">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2673" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170/1920.0.1920.1050@1920.0.1920.1050" timestamp="1617409954092" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1617419415480">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1617419415480" />
     <state x="2684" y="448" key="NewPhpFileDialog" timestamp="1617406271614">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
