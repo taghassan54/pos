@@ -15,4 +15,13 @@ class Sales extends Model
 
     protected $dates = ['deleted_at'];
 
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'user_id', 'items', 'returns',
+    ];
+
 }
